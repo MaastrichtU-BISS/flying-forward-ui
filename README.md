@@ -1,51 +1,6 @@
-# Case Law Explorer: UI
+# Flying Forward UI
 
-Please see our documentation [here](https://maastrichtlawtech.github.io/case-explorer-ui/).
-
-Materials for building a network analysis software platform for analyzing Dutch and European court decisions. This repository builds on the work by Dafne van Kuppevelt of the Netherlands e-Science Centre [NLeSC/case-law-app](https://github.com/NLeSC/case-law-app).
-
-## Contributors
-
-<!-- readme: contributors,gijsvd -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/sabaturgay">
-            <img src="https://avatars.githubusercontent.com/u/22500853?v=4" width="100;" alt="sabaturgay"/>
-            <br />
-            <sub><b>turgaysaba</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/maxin-e">
-            <img src="https://avatars.githubusercontent.com/u/15159137?v=4" width="100;" alt="maxin-e"/>
-            <br />
-            <sub><b>maxin-e</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BogDAAAMN">
-            <img src="https://avatars.githubusercontent.com/u/22895284?v=4" width="100;" alt="BogDAAAMN"/>
-            <br />
-            <sub><b>Bogdan Covrig</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/pedrohserrano">
-            <img src="https://avatars.githubusercontent.com/u/12054964?v=4" width="100;" alt="pedrohserrano"/>
-            <br />
-            <sub><b>Pedro V</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/gijsvd">
-            <img src="https://avatars.githubusercontent.com/u/31765316?v=4" width="100;" alt="gijsvd"/>
-            <br />
-            <sub><b>gijsvd</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: contributors,gijsvd -end -->
+User interface for the network analysis software platform for analyzing Dutch and European drone laws.
 
 ## License 
 
